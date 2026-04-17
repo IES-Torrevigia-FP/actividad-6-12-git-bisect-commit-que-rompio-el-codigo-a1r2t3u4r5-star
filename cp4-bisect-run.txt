@@ -1,0 +1,6 @@
+Script test_contador.sh:
+#!/bin/bash
+python3 contador.py 5 | grep -qx "6"
+
+Resultado:
+b61ff10 Introduce bug en siguiente (suma 2)

@@ -1,0 +1,10 @@
+artur@artur-VirtualBox:~/Documentos/actividad-6-12-git-bisect$ python3 contador.py 5
+7
+artur@artur-VirtualBox:~/Documentos/actividad-6-12-git-bisect$ git bisect start
+git bisect bad
+status: waiting for both good and bad commits
+status: waiting for good commit(s), bad commit known
+
+
+6 = good
+7 = bad
