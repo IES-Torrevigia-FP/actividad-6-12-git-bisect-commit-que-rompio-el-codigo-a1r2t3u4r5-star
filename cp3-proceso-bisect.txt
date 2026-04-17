@@ -1,3 +1,0 @@
-Commit good: 91af04a Añade comentario 2
-Commit bad inicial: 88f5240 (HEAD -> main) Añade comentario 3
-First bad commit: b61ff10 Introduce bug en siguiente (suma 2)
