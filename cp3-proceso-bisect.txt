@@ -1,0 +1,4 @@
+Commit marcado como good: 12cd14c Versión inicial correcta de contador
+Commit marcado como bad inicial: 40285eb Añade comentario 3
+Primer commit malo (first bad commit):
+ad138b29143c9c82d5bec4a49ee4fef34ead001d Introduce bug en siguiente (suma 2)

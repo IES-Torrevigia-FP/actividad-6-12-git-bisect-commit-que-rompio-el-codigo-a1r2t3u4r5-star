@@ -1,0 +1,20 @@
+40285eb Añade comentario 3
+ad138b2 Introduce bug en siguiente (suma 2)
+a247615 Añade comentario 2
+4d4f96b Añade comentario 1
+12cd14c Versión inicial correcta de contador
+7990f52 Delete test_contador.sh
+e5052b0 Delete reflexion-6-12.md
+54ccaad Delete cp4-bisect-run.txt
+1dbaab1 Delete cp3-proceso-bisect.txt
+b954c3a Delete cp2-prueba-manual.txt
+531d4c9 Delete cp1-historial-bisect.txt
+a525389 Delete contador.py
+455cac9 Tarea completa
+88f5240 Añade comentario 3
+b61ff10 Introduce bug en siguiente (suma 2)
+91af04a Añade comentario 2
+dc17dea Añade comentario 1
+f008aac Versión inicial correcta de contador
+e26da4d add deadline
+e09799d Initial commit

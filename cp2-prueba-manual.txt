@@ -1,0 +1,5 @@
+Comando de prueba: python contador.py 5
+Resultado actual: 7
+
+Explicación:
+Ejecutando "python contador.py 5", el script debería devolver 6, ya que la función "siguiente(n)" debería sumar 1 al valor proporcionado. Si el script imprime "6", significa que el comportamiento es correcto y el commit se marca como "good". Si imprime "7" (o cualquier otro valor incorrecto debido al bug intencionado), el comportamiento es erróneo y el commit se marca como "bad".

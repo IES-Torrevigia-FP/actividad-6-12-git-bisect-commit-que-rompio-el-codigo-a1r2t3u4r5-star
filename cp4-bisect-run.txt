@@ -1,0 +1,14 @@
+ejecutando './test_contador.sh'
+Biseccionando: faltan 0 revisiones por probar después de esta (aproximadamente 0 pasos)
+[ad138b29143c9c82d5bec4a49ee4fef34ead001d] Introduce bug en siguiente (suma 2)
+ejecutando './test_contador.sh'
+ad138b29143c9c82d5bec4a49ee4fef34ead001d is the first bad commit
+commit ad138b29143c9c82d5bec4a49ee4fef34ead001d
+Author: Artur Kutko <kutkoartur3@gmail.com>
+Date:   Fri Apr 17 12:42:36 2026 +0200
+
+    Introduce bug en siguiente (suma 2)
+
+ contador.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+bisect encontró el primer mal commit
